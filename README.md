@@ -57,7 +57,7 @@ Then open `index.html` in your browser.
 │   │   ├── index.js
 │   │   └── homes.js
 │   └── img/
-└── docs/          # screenshots used in this README
+└── docs/     
 ```
 
 ## Team
